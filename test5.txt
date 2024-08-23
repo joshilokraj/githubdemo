@@ -1,3 +1,6 @@
 good
 bad
+<<<<<<< HEAD
 devil
+=======
+>>>>>>> bc13267589c5c386ce7f4b475d3a571baa4fc408
