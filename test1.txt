@@ -1,9 +1,10 @@
-<<<<<<< HEAD
+
 created test1.txt file
-this is feat/a
-=======
+
+
 kt4jngql
 rkgnkrew3
 kfnrewkginrwg
 >>>>>>> bba03b1e76016fc0d0cfa7a03c0d51eb9108462e
 j
+
